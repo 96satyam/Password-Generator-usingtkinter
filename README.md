@@ -1,1 +1,1 @@
-# Pomodoro-Application-
+Password Generator using tkinter
